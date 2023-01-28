@@ -1,0 +1,17 @@
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\bin\Debug\net7.0\NetCoreAPI.DataAccess.deps.json
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\bin\Debug\net7.0\NetCoreAPI.DataAccess.runtimeconfig.json
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\bin\Debug\net7.0\NetCoreAPI.DataAccess.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\bin\Debug\net7.0\NetCoreAPI.DataAccess.pdb
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\bin\Debug\net7.0\NetCoreAPI.Entities.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\bin\Debug\net7.0\NetCoreAPI.Entities.pdb
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.AssemblyInfo.cs
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.csproj.CopyComplete
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\refint\NetCoreAPI.DataAccess.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.pdb
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\NetCoreAPI.DataAccess.genruntimeconfig.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.DataAccess\obj\Debug\net7.0\ref\NetCoreAPI.DataAccess.dll

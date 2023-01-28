@@ -1,0 +1,12 @@
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\bin\Debug\net7.0\NetCoreAPI.Entities.deps.json
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\bin\Debug\net7.0\NetCoreAPI.Entities.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\bin\Debug\net7.0\NetCoreAPI.Entities.pdb
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.AssemblyInfo.cs
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\refint\NetCoreAPI.Entities.dll
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\NetCoreAPI.Entities.pdb
+C:\Users\asimeon\Desktop\Ecommerce\NetCoreEcommerceAPI\NetCoreAPI.Entities\obj\Debug\net7.0\ref\NetCoreAPI.Entities.dll
